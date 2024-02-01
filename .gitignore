@@ -1,0 +1,5 @@
+# Project exclude paths
+/inventorymicroservice-master/target/
+/ordermicroservice-master/target/
+/paymentsmicroservice-master/target/
+/shipmentmicroservice-master/target/
