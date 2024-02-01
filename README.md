@@ -1,1 +1,1 @@
-Before run all microservice setup kafka
+Before run all microservices setup kafka
